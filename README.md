@@ -2,11 +2,11 @@
 
 🎓 Estudiante de Ingeniería en Sistemas enfocado en aprender, crear y crecer en el mundo tech.  
 💻 Apasionado por el desarrollo web, los sistemas distribuidos y el diseño minimalista.  
-🚀 Siempre aprendiendo algo nuevo (y rompiendo algo por accidente también 😅).
+🚀 Siempre aprendiendo algo nuevo.
 
 ---
 
-## 🧠 Tecnologías que uso
+## Tecnologías que uso
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Herramientas y entornos
+##  Herramientas y entornos
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -28,15 +28,14 @@
 
 ---
 
-## 🎨 También le entro al diseño
+## También le entro al diseño
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
 
 ---
 
-## 🌐 Conectemos
+## Conectemos
   
 - 📫 escríbeme: **barbosa7@email.com**  
 - 💬 Estoy abierto a colaborar en proyectos web, apps, o cualquier idea loca 
