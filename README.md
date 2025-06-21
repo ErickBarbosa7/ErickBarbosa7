@@ -40,7 +40,7 @@
 
 ## Conectemos
   
-- 📫 escríbeme: **barbosa7@email.com**  
+- 📫 escríbeme: **barbosa7mail@email.com**  
 - 💬 Estoy abierto a colaborar en proyectos web, apps, o cualquier idea loca 
 
 <!--
