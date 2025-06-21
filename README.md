@@ -37,14 +37,9 @@
 ---
 
 ## 🌐 Conectemos
-
-- 💌 Me puedes encontrar en: **[LinkedIn](https://www.linkedin.com/in/tuusuario)**  
-- 📫 O escríbeme: **tuemail@email.com**  
-- 💬 Estoy abierto a colaborar en proyectos web, apps, o cualquier idea loca 🤙
-
----
-
-> “El código no duerme, y a veces yo tampoco.” — yo en finales 😴
+  
+- 📫 escríbeme: **barbosa7@email.com**  
+- 💬 Estoy abierto a colaborar en proyectos web, apps, o cualquier idea loca 
 
 <!--
 **ErickBarbosa7/ErickBarbosa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
